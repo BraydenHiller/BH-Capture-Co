@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BH-Capture-Co/static/css/main.2325d972.css",
+    "main.js": "/BH-Capture-Co/static/js/main.8fa65d88.js",
+    "index.html": "/BH-Capture-Co/index.html",
+    "main.2325d972.css.map": "/BH-Capture-Co/static/css/main.2325d972.css.map",
+    "main.8fa65d88.js.map": "/BH-Capture-Co/static/js/main.8fa65d88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2325d972.css",
+    "static/js/main.8fa65d88.js"
+  ]
+}
